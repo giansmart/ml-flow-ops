@@ -8,3 +8,6 @@ Creating virtual environment at: .venv
 gipo@192 ml-flow-ops % uv add python-dotenv
 Resolved 120 packages in 71ms
 
+(ml-flow-ops) gipo@192 ml-flow-ops % uv add mistralai
+Resolved 123 packages in 1.05s
+Prepared 7 packages in 429ms

@@ -1,0 +1,10 @@
+gipo@192 ml-flow-ops % uv init
+Initialized project `ml-flow-ops`
+
+gipo@192 ml-flow-ops % uv add mlflow openai "langchain[openai]"
+Using CPython 3.12.11
+Creating virtual environment at: .venv
+
+gipo@192 ml-flow-ops % uv add python-dotenv
+Resolved 120 packages in 71ms
+

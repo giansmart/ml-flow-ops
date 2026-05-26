@@ -1428,6 +1428,7 @@ dependencies = [
     { name = "mlflow" },
     { name = "openai" },
     { name = "python-dotenv" },
+    { name = "scikit-learn" },
 ]
 
 [package.metadata]
@@ -1437,6 +1438,7 @@ requires-dist = [
     { name = "mlflow", specifier = ">=3.12.0" },
     { name = "openai", specifier = ">=2.38.0" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "scikit-learn", specifier = ">=1.8.0" },
 ]
 
 [[package]]

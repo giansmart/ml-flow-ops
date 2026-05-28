@@ -14,3 +14,7 @@ Prepared 7 packages in 429ms
 
 gipo@192 ml-flow-ops % uv add scikit-learn
 Resolved 123 packages in 1.33s
+
+(ml-flow-ops) gipo@192 ml-flow-ops % uv add  optuna
+Resolved 125 packages in 775ms
+Prepared 2 packages in 298ms
